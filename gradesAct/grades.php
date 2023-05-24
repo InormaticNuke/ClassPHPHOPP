@@ -6,23 +6,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Calc</title>
 </head>
-<body>
+<body align="center">
 
     <form action="" method="post">
 
-    1st<input type="text" name="first" id="first">
+    1 - <input type="text" name="first" id="first">
     <br>
-    2nd<input type="text" name="second" id="second">
+    2 - <input type="text" name="second" id="second">
     <br>
-    3rd<input type="text" name="third" id="third">
+    3 - <input type="text" name="third" id="third">
     <br>
-    4th<input type="text" name="fourth" id="fourth">
+    4 - <input type="text" name="fourth" id="fourth">
     <br>
-    5th<input type="text" name="fifth" id="fifth">
+    5 -  <input type="text" name="fifth" id="fifth">
     <br>
-    6th<input type="text" name="sexth" id="sexth">
+    6 -  <input type="text" name="sexth" id="sexth">
     <br>
-    7th<input type="text" name="seventh" id="seventh">
+    7 - <input type="text" name="seventh" id="seventh">
     <br><br>
     <button type="submit" name="ButtonS">SendData</button>
 
