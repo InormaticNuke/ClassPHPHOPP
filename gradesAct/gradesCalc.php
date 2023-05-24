@@ -26,7 +26,7 @@ class grades{
         $total = $this->first+$this->second+$this->third+$this->fourth+$this->fifth+$this->sexth+$this->seventh;
         $average = $total/7;
 
-        echo "The result is ".$average;
+        echo "The average is ".$average;
     }
 
 
